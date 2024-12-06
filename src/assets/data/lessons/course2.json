@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lesson1",
+    "description": "Introduction to React Hooks",
+    "duration": "20 minutes",
+    "seqNo": 1,
+    "courseId": 2
+  },
+  {
+    "id": "lesson2",
+    "description": "Functional Components and Props",
+    "duration": "25 minutes",
+    "seqNo": 2,
+    "courseId": 2
+  },
+  {
+    "id": "lesson3",
+    "description": "React Context API",
+    "duration": "30 minutes",
+    "seqNo": 3,
+    "courseId": 2
+  },
+  {
+    "id": "lesson4",
+    "description": "React Performance Optimization",
+    "duration": "40 minutes",
+    "seqNo": 4,
+    "courseId": 2
+  },
+  {
+    "id": "lesson5",
+    "description": "Building Custom Hooks",
+    "duration": "45 minutes",
+    "seqNo": 5,
+    "courseId": 2
+  }
+]

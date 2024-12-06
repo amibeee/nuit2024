@@ -1,0 +1,21 @@
+{
+    "course1": {
+      "id": "course1",
+      "description": "An introductory course to Angular",
+      "iconUrl": "https://cpi.ch/wp-content/uploads/2021/07/Angular.png",
+      "courseListIcon": "https://cpi.ch/wp-content/uploads/2021/07/Angular.png",
+      "longDescription": "This course covers the basics of Angular, including components, directives, services, and modules.",
+      "category": "Web Development",
+      "lessonsCount": 10
+    },
+    "course2": {
+      "id": "course2",
+      "description": "Advanced React concepts and patterns",
+      "iconUrl": "https://img-c.udemycdn.com/course/750x422/3935302_70bf.jpg",
+      "courseListIcon": "https://cpi.ch/wp-content/uploads/2021/07/Angular.png",
+      "longDescription": "Dive deeper into React, exploring advanced patterns, hooks, and performance optimization techniques.",
+      "category": "Web Development",
+      "lessonsCount": 12
+    }
+  }
+  
